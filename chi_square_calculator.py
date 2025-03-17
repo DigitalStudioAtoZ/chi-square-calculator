@@ -25,3 +25,5 @@ def chi_square_right_tail():
 
 # Run the function
 chi_square_right_tail()
+
+# run this code on any pythode code runner
